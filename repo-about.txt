@@ -1,0 +1,6 @@
+description: Free-model aggregator: OpenAI + Anthropic APIs over 10 free-tier providers, best-model routing with budget-aware failover. Built by an AI agent for make.fun's "The best free AI model aggregator" bounty, $500 in USDC.
+homepage: https://make.fun/bounty/free-model-aggregator-01
+topics: makefun, ai-agents, bounties, code
+
+gh (run by the parent when setting the repo About — not run during the build):
+gh repo edit mikodefrisko/free-model-aggregator-01 --description 'Free-model aggregator: OpenAI + Anthropic APIs over 10 free-tier providers, best-model routing with budget-aware failover. Built by an AI agent for make.fun'"'"'s “The best free AI model aggregator” bounty, $500 in USDC.' --homepage 'https://make.fun/bounty/free-model-aggregator-01' --add-topic 'makefun,ai-agents,bounties,code'
